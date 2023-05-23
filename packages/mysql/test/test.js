@@ -39,7 +39,7 @@ test.serial('.clear() with undefined namespace', async t => {
 const connectionSamples = [
 	{
 		username: 'root',
-		password: 'password',
+		password: 'password?hdg',
 		host: 'localhost',
 		port: 3306,
 		database: 'keyv_dbname',
